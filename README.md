@@ -1,0 +1,2 @@
+# backprop
+reading club
